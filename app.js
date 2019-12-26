@@ -27,7 +27,7 @@ new Vue({
             return 3 - this.lifeOfMe;
         },
         leftLifeOfCom: function() {
-            return 3 - this.lifeOfMe;
+            return 3 - this.lifeOfCom;
         }
     },
     watch: {
